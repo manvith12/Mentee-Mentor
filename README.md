@@ -4,7 +4,7 @@ Welcome to the **IIITK Competitive Programming Program Resource Repository**! Th
 
 ---
 
-##Pre-requisites
+## Pre-requisites
 
 ### Typing
 - Learn touch typing at: <https://www.typing.com/>
