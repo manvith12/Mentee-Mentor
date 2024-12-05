@@ -42,9 +42,10 @@ Thanks to the mentors for their dedication.
 
 
 ### Contact
-For queries, reach out at:
-Email: sanisettykumar24bcs0217@iiitkottayam.ac.in
-GitHub: [@manvith12](https://www.github.com/manvith12)
 
-Happy Coding! 🚀
+For queries, reach out at:
+  - Email: sanisettykumar24bcs0217@iiitkottayam.ac.in
+  - GitHub: [@manvith12](https://www.github.com/manvith12)
+
+# Happy Coding! 🚀
 
