@@ -1,4 +1,4 @@
-// week1-day3 queue q1, same old appartment question //
+// week1-day3 queue q1, same old appsartment question //
 
 #include <iostream>
 #include <queue>
