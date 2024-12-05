@@ -1,4 +1,4 @@
-# IIITK Competitive Programming Mentor-Mentee Resources
+# IIITK Coders-club Mentor-Mentee Resources
 
 Welcome to the **IIITK Competitive Programming Program Resource Repository**! This repository includes resources shared during our summer mentorship program, guiding freshmen in competitive programming.
 
@@ -23,26 +23,28 @@ Welcome to the **IIITK Competitive Programming Program Resource Repository**! Th
 
 ---
 
-## Weekly Resources
-
-Explore weekly folders with learning materials, problem sets, and tools to help you practice and learn.
-
-### Week-by-Week Topics:
-| Week | Topics Covered | Links |
-|------|----------------|-------|
-| 1    | Basics, Loops, Conditionals | [Week 1](./week-1) |
-| 2    | Arrays, Strings, Recursion | [Week 2](./week-2) |
-| 3    | Sorting, Searching | [Week 3](./week-3) |
-| 4    | Bit Manipulation | [Week 4](./week-4) |
-| 5    | Stacks, Queues, Deques | [Week 5](./week-5) |
-| 6    | Graph Theory | [Week 6](./week-6) |
-| 7    | Dynamic Programming | [Week 7](./week-7) |
-| 8    | Contest Tips | [Week 8](./week-8) |
-
----
 
 ## How to Use
 
 1. Clone the repository:  
    ```bash
    git clone https://github.com/yourusername/iiitk-mentor-mentee-resources.git
+
+2. Go through weekly folders for resources and practice.
+
+3. Solve problems and follow the learning path.
+
+
+### Acknowledgements
+
+Thanks to the mentors for their dedication. 
+
+
+
+### Contact
+For queries, reach out at:
+Email: sanisettykumar24bcs0217@iiitkottayam.ac.in
+GitHub: [@manvith12](https://www.github.com/manvith12)
+
+Happy Coding! 🚀
+
