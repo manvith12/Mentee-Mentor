@@ -4,6 +4,10 @@ Welcome to the **IIITK Competitive Programming Program Resource Repository**! Th
 
 ---
 
+## Mentor of the repository
+- [Shaun Alan Joseph](http://github.com/shaunalanjoseph)
+
+
 ## Pre-requisites
 
 ### Typing
